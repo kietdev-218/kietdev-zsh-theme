@@ -68,7 +68,7 @@ username@host [~/projects/myapp] (main→origin) ✔ ↑2 ———————�
 
 1. **Clone project**:
    ```bash
-   git clone --branch v1.0.0 --single-branch https://github.com/kietdev-218/kietdev-zsh-theme.git "${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/kietdev"
+   git clone --branch v1.0.0 --single-branch https://github.com/kietdev-218/kietdev-zsh-theme.git "${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/kietdev-zsh-theme"
    ```
 
 2. **Update your `.zshrc`**:
